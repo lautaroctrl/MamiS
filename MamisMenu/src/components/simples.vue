@@ -1,0 +1,19 @@
+<template>
+  <div id="simples" class="w-11/12 flex mx-auto px-4 flex-col bg-yellow-50/40 mt-9">
+    <div class="mx-auto my-2 bg-black flex h-12 w-full items-center">
+      <h1 class="text-2xl text-white mx-auto">SIMPLES</h1>
+    </div>
+    <div class="font-bold border-dashed border-4 border-black text-center text-lg">
+      <h1 class="my-1">6 Unidades por plancha</h1>
+    </div>
+    <div v-for="(item, index) in simples" :key="index" class="flex text-sm font-serif">
+      <div class="font-bold my-2">{{ item.name }}</div>
+      <span class="ml-auto pt-2">{{ item.price }}</span>
+      <div class="my-5"></div>
+    </div>
+  </div>
+</template>
+
+<script setup>
+import simples from '@/scripts/simples';
+</script>
