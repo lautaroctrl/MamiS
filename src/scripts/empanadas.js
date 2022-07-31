@@ -1,31 +1,31 @@
 const empanadas = [
   {
     name: 'Carne',
-    price: '$150',
+    price: '$160',
   },
   {
     name: 'Jamón y Queso',
-    price: '$140',
+    price: '$150',
   },
   {
     name: 'Pollo',
-    price: '$140',
+    price: '$150',
   },
   {
     name: 'Humita: Choclo',
-    price: '$140',
+    price: '$150',
   },
   {
     name: 'Verdura: Acelga',
-    price: '$140',
+    price: '$150',
   },
   {
     name: 'Cebolla y Queso',
-    price: '$140',
+    price: '$150',
   },
   {
     name: 'Capresse: Rodajas de Tomate, Muzzarela, Albaca',
-    price: '$150',
+    price: '$180',
   },
 ];
 

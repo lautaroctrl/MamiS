@@ -1,110 +1,110 @@
 const mixtos = [
   {
-    price: '$600',
+    price: '$650',
     name: '20-Jamón Cocido,Queso Manteca',
   },
   {
-    price: '$650',
+    price: '$690',
     name: '21-Jamón Cocido,Queso Aceitunas',
   },
   {
-    price: '$680',
+    price: '$750',
     name: '22-Jamón Cocido,Anana,Golf',
   },
   {
-    price: '$730',
+    price: '$800',
     name: '23-Jamón Crudo,Anana,Golf',
   },
   {
-    price: '$650',
+    price: '$750',
     name: '24-Jamón Cocido,Palmitos,Golf',
   },
   {
-    price: '$730',
+    price: '$800',
     name: '25-Jamón Crudo,Palmitos,Golf',
   },
   {
-    price: '$730',
+    price: '$800',
     name: '26-Jamón Crudo,Queso,Manteca',
   },
   {
-    price: '$650',
+    price: '$700',
     name: '27-Salame Milán,Queso,Manteca',
   },
   {
-    price: '$650',
+    price: '$700',
     name: '28-Arrollado,Queso,Manteca',
   },
   {
-    price: '$650',
+    price: '$700',
     name: '29-Mortadela,Queso,Manteca',
   },
   {
-    price: '$630',
+    price: '$700',
     name: '30-Lengua,Queso,Mayonesa',
   },
   {
-    price: '$630',
+    price: '$700',
     name: '31-Lengua,Huevo,Mayonesa',
   },
   {
-    price: '$620',
+    price: '$670',
     name: '32-Crema de Choclo,Queso,Golf',
   },
   {
-    price: '$630',
+    price: '$750',
     name: '33-Atún,Morrones,Mayonesa o Golf',
   },
   {
-    price: '$650',
+    price: '$800',
     name: '34-Atún,Morrones,Aceitunas, Mayonesa o Golf',
   },
   {
-    price: '$680',
+    price: '$750',
     name: '35-Anchoas,Huevo,Manteca',
   },
   {
-    price: '$630',
+    price: '$690',
     name: '36-Jamón Cocido,Morrones,Mayonesa',
   },
   {
-    price: '$630',
+    price: '$690',
     name: '37-Jamón Cocido,Crema de Choclo,Golf',
   },
   {
-    price: '$630',
+    price: '$700',
     name: '38-Queso,Aceitunas,Morrones, Mayonesa',
   },
   {
-    price: '$650',
+    price: '$800',
     name: '39-Esparragos,Queso,Huevo, Mayonesa',
   },
   {
-    price: '$680',
+    price: '$750',
     name: '40-Pollo,Anana,Salsa Holandesa',
   },
   {
-    price: '$650',
+    price: '$700',
     name: '41-Pollo,Crema de Choclo,Golf',
   },
   {
-    price: '$650',
+    price: '$700',
     name: '42-Pollo,Morrones,Golf',
   },
   {
-    price: '$650',
+    price: '$700',
     name: '43-Pollo,Aceitunas,Golf',
   },
   {
-    price: '$650',
+    price: '$800',
     name: '44-Pollo,Palmitos,Golf',
   },
   {
-    price: '$650',
+    price: '$750',
     name: '45-Pollo,Tomate,Mayonesa',
   },
   {
-    price: '$730',
+    price: '$800',
     name: '46-Bondiola,Queso,Manteca',
   },
 ];
