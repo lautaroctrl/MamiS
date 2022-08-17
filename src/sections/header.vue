@@ -16,6 +16,22 @@
       </div>
     </div>
   </div>
+  <div class="flex justify-between mt-[20px] mx-[15px] mb-[15px]">
+    <div class="w-36 text-center text-lg font-bold border-dashed border-black border-2">
+      <div>TELEFONOS</div>
+      <div>
+        458-9845 <br />
+        459-9399
+      </div>
+    </div>
+    <div class="w-36 text-center text-lg font-bold border-dashed border-black border-2">
+      <div>DIRECCION</div>
+      <div>
+        General López <br />
+        3178
+      </div>
+    </div>
+  </div>
   <div class="w-auto mx-auto flex justify-between underline decoration-1 font-bold">
     <div class="flex flex-col">
       <a href="#simples" class="mx-4 my-1">Simples</a>

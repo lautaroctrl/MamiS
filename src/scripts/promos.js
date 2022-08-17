@@ -14,7 +14,7 @@ const promos = [
   {
     //id:3,
     price: '$2700',
-    name: '3-BANDEJA FAMILIAR: 4 PERSONAS',
+    name: '3-BANDEJA MIXTOS: 4 PERSONAS',
     description: 'Mixtos de Jamón y Queso,Triples',
   },
   {
