@@ -28,7 +28,7 @@
       <div>DIRECCION</div>
       <div>
         General López <br />
-        3178
+        3182
       </div>
     </div>
   </div>
