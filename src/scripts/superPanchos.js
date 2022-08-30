@@ -1,15 +1,15 @@
 const superPanchos = [
   {
     name: '105-Salchicha Gigante, Mostaza o Mayonesa',
-    price: '$550',
+    price: '$600',
   },
   {
     name: '106-Salchicha Gigante, Queso, Jamón, Mostaza o Mayonesa',
-    price: '$650',
+    price: '$700',
   },
   {
     name: '107-Salchicha Gigante, Jamón, Queso, Morr, Aceit, Hvo, Mixta',
-    price: '$750',
+    price: '$800',
   },
 ];
 

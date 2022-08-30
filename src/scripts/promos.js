@@ -31,7 +31,7 @@ const promos = [
   },
   {
     //id:6,
-    price: '$1700',
+    price: '$1900',
     name: '6-POLLO CON PAPAS AL HORNO',
   },
   {
@@ -46,7 +46,7 @@ const promos = [
   },
   {
     // id:9,
-    price: '$1800',
+    price: '$1900',
     name: '9-TARTAS VARIAS',
   },
 ];

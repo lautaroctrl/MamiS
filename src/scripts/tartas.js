@@ -1,19 +1,19 @@
 const tartas = [
   {
     name: 'Jamón, Queso, Morrones, Aceitunas, Huevo',
-    price: '$18500',
+    price: '$1900',
   },
   {
     name: 'Humita:Choclo, Jamón, Queso',
-    price: '$1650',
+    price: '$1900',
   },
   {
     name: 'Verdura: Acelga, Queso, Huevo',
-    price: '$1800',
+    price: '$1900',
   },
   {
     name: 'Queso,Cebolla, Champignon ',
-    price: '$1800',
+    price: '$1900',
   },
   {
     name: 'Zapallito, Queso, Huevo',
