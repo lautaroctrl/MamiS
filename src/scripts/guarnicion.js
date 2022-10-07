@@ -1,7 +1,7 @@
 const guarnicion = [
   {
     name: 'Papas Fritas (Porción)',
-    price: '$500',
+    price: '$600',
   },
   {
     name: 'Puré',

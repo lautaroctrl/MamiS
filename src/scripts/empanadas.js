@@ -1,7 +1,7 @@
 const empanadas = [
   {
     name: 'Carne',
-    price: '$160',
+    price: '$180',
   },
   {
     name: 'Jamón y Queso',

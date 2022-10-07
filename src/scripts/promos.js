@@ -1,31 +1,31 @@
 const promos = [
   {
     // id:1,
-    price: '$4900',
+    price: '$5500',
     name: '1-BANDEJA FAMILIAR: 8 PERSONAS',
     description: 'Triples,Mixtos,Salame Milán,Lengua,Arrollado',
   },
   {
     // id:2,
-    price: '$3900',
+    price: '$4500',
     name: '2-BANDEJA FAMILIAR: 6 PERSONAS',
     description: 'Triples,Mixtos,Salame Milán,Lengua,Arrollado',
   },
   {
     //id:3,
-    price: '$2700',
+    price: '$3000',
     name: '3-BANDEJA MIXTOS: 4 PERSONAS',
     description: 'Mixtos de Jamón y Queso,Triples',
   },
   {
     // id:4,
-    price: '$2800',
+    price: '$3100',
     name: '4-BANDEJA FAMILIAR: 4 PERSONAS',
     description: 'Triples,Mixtos,Salame Milán,Lengua',
   },
   {
     // id:5,
-    price: '$2100',
+    price: '$2200',
     name: '5-BANDEJA SURTIDOS',
     description: 'Triples,Mixtos,Salame Milán',
   },

@@ -37,7 +37,7 @@ const pizzas = [
   {
     name: 'Roquefort:',
     description: 'Salsa, Muzzarela, Morrones, Aceituans, Roquefort',
-    price: '$1300',
+    price: '$1400',
   },
   {
     name: 'Romana:',
@@ -52,7 +52,7 @@ const pizzas = [
   {
     name: 'Especial C/Anchoas:',
     description: ' Salsa;Muzza, Morr, Aceit, Jam. Coc, Anchoas ',
-    price: '$1300',
+    price: '$1400',
   },
   {
     name: 'Calabresa:',
@@ -62,7 +62,7 @@ const pizzas = [
   {
     name: 'Palmitos:',
     description: 'Salsa Muzzarela, Jamón Cocido, Aceit,Morr,Palmitos',
-    price: '$1300',
+    price: '$1500',
   },
 ];
 
