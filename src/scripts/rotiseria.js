@@ -37,7 +37,7 @@ const rotiseria = [
   },
   {
     name: 'Pollo al Horno con Papas',
-    price: '$1900',
+    price: '$2200',
   },
 ];
 
