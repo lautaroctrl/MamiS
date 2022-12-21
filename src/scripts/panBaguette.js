@@ -21,7 +21,7 @@ const panBaguette = [
   },
   {
     name: '116-Verduras Grilladas, Tomate, Queso Muzzarella,',
-    price: '$850',
+    price: '$900',
   },
 ];
 

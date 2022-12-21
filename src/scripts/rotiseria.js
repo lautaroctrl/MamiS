@@ -1,27 +1,27 @@
 const rotiseria = [
   {
     name: 'Milanesa de Carne de Ternera el kg',
-    price: '$2250',
+    price: '$2300',
   },
   {
     name: 'Milanesa de Carne de Ternera a la Pizza',
-    price: '$2300',
+    price: '$2400',
   },
   {
     name: 'Milanesa de Carne de Ternera Gratinada',
-    price: '$2300',
+    price: '$2400',
   },
   {
     name: 'Milanesa de Carne de Ternera Napolitana',
-    price: '$2300',
+    price: '$2400',
   },
   {
     name: 'Milanesa de Pollo',
-    price: '$1450',
+    price: '$1500',
   },
   {
     name: 'Milanesa de Pollo a la Pizza',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: 'Milanesa de Pollo Gratinada',
@@ -33,11 +33,11 @@ const rotiseria = [
   },
   {
     name: 'Pechuga Grille',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: 'Pollo al Horno con Papas',
-    price: '$2200',
+    price: '$2300',
   },
 ];
 

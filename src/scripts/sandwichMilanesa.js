@@ -5,11 +5,11 @@ const sandwichMilanesa = [
   },
   {
     name: '109- Milanesa, Pan Frances, Tomate, Lechuga, Mixta.',
-    price: '$890',
+    price: '$900',
   },
   {
     name: '110- Milanesa, Tomate,Lechuga, Queso, Huevo, Morrones, Aceit',
-    price: '$1000',
+    price: '$1200',
   },
 ];
 

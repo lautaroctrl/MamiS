@@ -1,31 +1,31 @@
 export const cervezas = [
   {
     name: 'Santa Fe PILSEN ',
-    price: '$200',
-  },
-  {
-    name: 'Santa Fe FROST ',
-    price: '$200',
-  },
-  {
-    name: 'Santa Fe COMUN ',
-    price: '$200',
-  },
-  {
-    name: 'Santa Fe NEGRA ',
-    price: '$200',
-  },
-  {
-    name: 'Schneider ',
-    price: '$200',
-  },
-  {
-    name: 'Heineken ',
     price: '$400',
   },
   {
+    name: 'Santa Fe FROST ',
+    price: '$400',
+  },
+  {
+    name: 'Santa Fe COMUN ',
+    price: '$400',
+  },
+  {
+    name: 'Santa Fe NEGRA ',
+    price: '$500',
+  },
+  {
+    name: 'Schneider ',
+    price: '$400',
+  },
+  {
+    name: 'Heineken ',
+    price: '$650',
+  },
+  {
     name: 'Miller ',
-    price: '$300',
+    price: '$500',
   },
   {
     name: 'Imperial ',
@@ -33,137 +33,137 @@ export const cervezas = [
   },
   {
     name: 'Budweiser ',
-    price: '$260',
+    price: '$400',
   },
 ];
 
 export const cervezasLatas = [
   {
     name: 'Santa Fe  ',
-    price: '$150',
+    price: '$300',
   },
   {
     name: 'Santa Fe Negra ',
-    price: '$160',
+    price: '$300',
   },
   {
     name: 'Santa Fe Pilsen ',
-    price: '$150',
+    price: '$300',
   },
   {
     name: 'Amstel ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Heineken ',
-    price: '$250',
+    price: '$450',
   },
   {
     name: 'Stella Artois ',
-    price: '$200',
+    price: '$450',
   },
   {
     name: 'Miller ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Imperial ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Apa ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Ipa  ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Salta ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Salta Roja ',
-    price: '$170',
+    price: '$300',
   },
   {
     name: 'Quilmes ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Brahma ',
-    price: '$120',
+    price: '$300',
   },
   {
     name: 'Patagonia ',
-    price: '$180',
+    price: '$300',
   },
   {
     name: 'Schneider ',
-    price: '$150',
+    price: '$300',
   },
   {
     name: 'Schneider Roja ',
-    price: '$150',
+    price: '$300',
   },
 ];
 
 export const gaseosasLitro = [
   {
     name: 'Coca Cola ',
-    price: '$300',
+    price: '$450',
   },
   {
     name: 'Coca Cola S/A',
-    price: '$300',
+    price: '$450',
   },
   {
     name: 'Sprite ',
-    price: '$300',
+    price: '$450',
   },
   {
     name: 'Sprite S/A',
-    price: '$300',
+    price: '$450',
   },
   {
     name: 'Schweppes',
-    price: '$300',
+    price: '$450',
   },
   {
     name: 'H2O',
-    price: '$250',
+    price: '$350',
   },
   {
     name: 'Paso de los Toros',
-    price: '$300',
+    price: '$450',
   },
   {
     name: 'Fanta',
-    price: '$260',
+    price: '$450',
   },
   {
     name: 'Mirinda',
-    price: '$250',
+    price: '$450',
   },
   {
     name: 'Levite ',
-    price: '$200',
+    price: '$350',
   },
   {
     name: 'Aquarius',
-    price: '$200',
+    price: '$350',
   },
   {
     name: 'Citric',
-    price: '$280',
+    price: '$450',
   },
   {
     name: 'Agua Mineral',
-    price: '$180',
+    price: '$280',
   },
   {
     name: 'Soda',
-    price: '$130',
+    price: '$200',
   },
 ];
 

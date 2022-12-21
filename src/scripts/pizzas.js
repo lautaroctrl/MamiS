@@ -2,67 +2,67 @@ const pizzas = [
   {
     name: 'Muzzarela:',
     description: 'Salsa, Muzzarela, Morrones y Aceitunas',
-    price: '$980',
+    price: '$1200',
   },
   {
     name: 'Provenzal:',
     description: 'Salsa, Muzzarela, Morrones, Aceitunas,perejil y Ajo',
-    price: '$1100',
+    price: '$1300',
   },
   {
     name: 'Primavera:',
     description: ' Salsa, Muzzarela, Morrones, Aceitunas, Huevo Rallado ',
-    price: '$1100',
+    price: '$1300',
   },
   {
     name: 'Napolitana:',
     description: ' Salsa, Muzz, Morr, Acei,Rod. de Tomate y Oregano ',
-    price: '$1100',
+    price: '$1300',
   },
   {
     name: 'Cebollada:',
     description: ' Salsa, Muzzarela, Morrones, Aceitunas, Cebolla ',
-    price: '$1100',
+    price: '$1300',
   },
   {
     name: 'Especial:',
     description: 'Salsa Muzzarela, Morrones, Aceitunas, Jamón Cocido',
-    price: '$1200',
+    price: '$1400',
   },
   {
     name: 'Doble Queso:',
     description: ' Salsa, Muzzarela, Morrones, Aceitunas, Provolone',
-    price: '$1400',
+    price: '$1500',
   },
   {
     name: 'Roquefort:',
     description: 'Salsa, Muzzarela, Morrones, Aceituans, Roquefort',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: 'Romana:',
     description: 'Salsa, Muzzarela, Aceitunas, Morrones, Anchoas',
-    price: '$1400',
+    price: '$1600',
   },
   {
     name: 'Champignon:',
     description: ' Salsa, Muzzarela, Morr, Aceitunas, Champiñones',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: 'Especial C/Anchoas:',
     description: ' Salsa;Muzza, Morr, Aceit, Jam. Coc, Anchoas ',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: 'Calabresa:',
     description: ' Salsa, Muzzarela, Rodajas de Tomate,Longaniza',
-    price: '$1400',
+    price: '$1500',
   },
   {
     name: 'Palmitos:',
     description: 'Salsa Muzzarela, Jamón Cocido, Aceit,Morr,Palmitos',
-    price: '$1500',
+    price: '$1600',
   },
 ];
 

@@ -5,11 +5,11 @@ const guarnicion = [
   },
   {
     name: 'Puré',
-    price: '$500',
+    price: '$600',
   },
   {
     name: 'Tortillas Papas/ Verdura',
-    price: '$650',
+    price: '$700',
   },
 ];
 

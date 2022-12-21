@@ -1,7 +1,7 @@
 const superPanchos = [
   {
     name: '105-Salchicha Gigante, Mostaza o Mayonesa',
-    price: '$650',
+    price: '$750',
   },
   {
     name: '106-Salchicha Gigante, Queso, Jamón, Mostaza o Mayonesa',
