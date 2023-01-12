@@ -1,15 +1,15 @@
 const fugazzas = [
   {
     name: 'Carne',
-    price: '$300',
+    price: '$350',
   },
   {
     name: 'Jamón y Queso',
-    price: '$280',
+    price: '$300',
   },
   {
     name: 'Queso',
-    price: '$280',
+    price: '$300',
   },
 ];
 

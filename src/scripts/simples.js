@@ -1,27 +1,27 @@
 const simples = [
   {
     name: '01-Queso, Manteca',
-    price: '$850',
+    price: '$1000',
   },
   {
     name: '02-Jamón Cocido,Manteca',
-    price: '$900',
+    price: '$1000',
   },
   {
     name: '03-Salame Milán,Manteca',
-    price: '$900',
+    price: '$1000',
   },
   {
     name: '04-Lengua, Mayonesa',
-    price: '$900',
+    price: '$1000',
   },
   {
     name: '05-Choclo, Salsa Golf ',
-    price: '$900',
+    price: '$1000',
   },
   {
     name: '06-Atún, Mayonesa o Salsa Golf',
-    price: '$1000',
+    price: '$1100',
   },
   {
     name: '07-Roquefort, Manteca',
@@ -45,7 +45,7 @@ const simples = [
   },
   {
     name: '12-Palmitos, Salsa Golf',
-    price: '$1000',
+    price: '$1200',
   },
   {
     name: '13-Boldiola, Manteca',
@@ -53,7 +53,7 @@ const simples = [
   },
   {
     name: '14-Jamón Crudo,Manteca',
-    price: '$1000',
+    price: '$1200',
   },
   {
     name: '15-Pollo, Manteca',

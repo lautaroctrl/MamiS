@@ -12,17 +12,17 @@ const pizzas = [
   {
     name: 'Primavera:',
     description: ' Salsa, Muzzarela, Morrones, Aceitunas, Huevo Rallado ',
-    price: '$1300',
+    price: '$1400',
   },
   {
     name: 'Napolitana:',
     description: ' Salsa, Muzz, Morr, Acei,Rod. de Tomate y Oregano ',
-    price: '$1300',
+    price: '$1400',
   },
   {
     name: 'Cebollada:',
     description: ' Salsa, Muzzarela, Morrones, Aceitunas, Cebolla ',
-    price: '$1300',
+    price: '$1400',
   },
   {
     name: 'Especial:',
@@ -42,7 +42,7 @@ const pizzas = [
   {
     name: 'Romana:',
     description: 'Salsa, Muzzarela, Aceitunas, Morrones, Anchoas',
-    price: '$1600',
+    price: '$1500',
   },
   {
     name: 'Champignon:',

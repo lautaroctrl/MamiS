@@ -29,11 +29,11 @@ const triples = [
   },
   {
     name: '57-Jamón Crudo, Queso, Tomate,Lechuga, Mayonesa',
-    price: '$1400',
+    price: '$1500',
   },
   {
     name: '58-Jamón Crudo, Palmitos, Tomate, Lechuga, Huevo, Golf',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: '59-Lengua, Tomate, Lechuga, Huevo, Mayonesa.',
@@ -41,7 +41,7 @@ const triples = [
   },
   {
     name: '60-Jamón Crudo, Anana, Tomate,Lechuga, Huevo, Golf',
-    price: '$1500',
+    price: '$1600',
   },
   {
     name: '61-Pollo, Tomate, Lechuga, Huevo, Golf',
@@ -53,11 +53,11 @@ const triples = [
   },
   {
     name: '63-Atún, Tomate, Lechuga, Huevo, Golf',
-    price: '$1300',
+    price: '$1400',
   },
   {
     name: '64-Atún, Morrones, Lechuga, Huevo, Golf',
-    price: '$1400',
+    price: '$1500',
   },
   {
     name: '65-Peceto, Tomate, Lechuga, Huevo, Mayonesa',
