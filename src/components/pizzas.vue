@@ -11,7 +11,7 @@
         {{ item.name }}
         <span class="font-serif font-normal">{{ item.description }}</span>
       </div>
-      <span class="ml-auto pt-2 font-bold">{{ item.price }}</span>
+      <span class="ml-auto pt-2 font-bold">-</span>
       <div class="my-5"></div>
     </div>
   </div>

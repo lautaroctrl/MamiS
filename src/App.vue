@@ -23,6 +23,8 @@ import Bebidas from './components/bebidas.vue';
 <template>
   <div class="container mx-auto">
     <Header />
+  </div>
+  <div class="container mx-auto dt:w-1/4">
     <Promos />
     <Simples />
     <Mixtos />

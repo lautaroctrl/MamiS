@@ -5,7 +5,7 @@
     </div>
     <div v-for="(item, index) in sandwichMilanesa" :key="index" class="flex text-sm font-serif">
       <div class="font-bold my-2">{{ item.name }}</div>
-      <span class="ml-auto pt-2">{{ item.price }}</span>
+      <span class="ml-auto pt-2">-</span>
       <div class="my-5"></div>
     </div>
   </div>
